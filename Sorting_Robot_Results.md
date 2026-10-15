@@ -1,8 +1,8 @@
 # CSC 225 — Sorting Robot Lottery: Results
 
-**Random seed:** ________  
-**Algorithm 1:** ________  
-**Algorithm 2:** ________
+**Random seed:** __1______  
+**Algorithm 1:** __slection______  
+**Algorithm 2:** __bubble______
 
 The driver generates **50 random lists of 100 integers each**. Both algorithms receive the same list for each run. Paste the 50 comparison counts from the program for each algorithm below (rather than filling in a 50-row table).
 
